@@ -1,0 +1,91 @@
+Last login: Tue Oct 14 23:28:05 on ttys000
+shoaibkhan@Shoaibs-MacBook-Air ~ % cd 
+shoaibkhan@Shoaibs-MacBook-Air ~ % pwd
+/Users/shoaibkhan
+shoaibkhan@Shoaibs-MacBook-Air ~ % ls -la
+total 240
+drwxr-x---+  60 shoaibkhan  staff   1920 Oct 14 23:35 .
+drwxr-xr-x    5 root        admin    160 Aug 15 14:01 ..
+drwxr-xr-x@   3 shoaibkhan  staff     96 Oct  7 18:05 .AltairRapidMiner
+-r--------    1 shoaibkhan  staff      7 Nov 12  2023 .CFUserTextEncoding
+-rw-r--r--@   1 shoaibkhan  staff  14340 Oct 14 21:03 .DS_Store
+-rw-r--r--    1 shoaibkhan  staff      0 Oct  8 12:43 .Rapp.history
+drwx------+   2 shoaibkhan  staff     64 Oct 14 20:49 .Trash
+drwxr-xr-x@   3 shoaibkhan  staff     96 Oct  7 18:05 .altair_licensing
+drwxr-xr-x@  13 shoaibkhan  staff    416 Oct  4 12:02 .android
+drwxr-xr-x@   4 shoaibkhan  staff    128 Apr  7  2025 .app-store
+-rw-------    1 shoaibkhan  staff    114 Oct 14 16:59 .bash_history
+drwx------    6 shoaibkhan  staff    192 Oct 14 16:59 .bash_sessions
+-rw-r--r--@   1 shoaibkhan  staff    471 Oct 13 21:04 .bashrc
+drwxr-xr-x    3 shoaibkhan  staff     96 Nov 20  2023 .bundle
+drwxr-xr-x    3 shoaibkhan  staff     96 Nov 26  2023 .cocoapods
+drwxr-xr-x@  20 shoaibkhan  staff    640 Jun 16 20:50 .codeium
+drwxr-xr-x@   3 shoaibkhan  staff     96 Jan  9  2024 .config
+-rw-------@   1 shoaibkhan  staff     16 Oct  7  2024 .emulator_console_auth_token
+drwxr-xr-x@  10 shoaibkhan  staff    320 Apr 15  2025 .expo
+drwxr-xr-x@   4 shoaibkhan  staff    128 Jan  9  2024 .flipper
+drwxr-xr-x    4 shoaibkhan  staff    128 Nov 20  2023 .gem
+-rw-r--r--    1 shoaibkhan  staff    298 Oct 13 20:34 .gitconfig
+drwxr-xr-x@   5 shoaibkhan  staff    160 Oct 14 20:34 .gk
+drwxr-xr-x@  12 shoaibkhan  staff    384 Aug 15 20:37 .gradle
+drwxr-xr-x@   3 shoaibkhan  staff     96 Oct  7  2024 .hawtjni
+-rw-------    1 shoaibkhan  staff     20 Sep 24 16:21 .lesshst
+drwxr-xr-x    3 shoaibkhan  staff     96 Nov 26  2023 .local
+-rw-------@   1 shoaibkhan  staff      0 Mar  4  2025 .node_repl_history
+-rw-r--r--@   1 shoaibkhan  staff   8301 Aug 17 17:22 .npl
+drwxr-xr-x    8 shoaibkhan  staff    256 Mar  3  2025 .npm
+-rw-r--r--@   1 shoaibkhan  staff     23 Oct 14 17:12 .python_history
+drwxr-xr-x    5 shoaibkhan  staff    160 Nov 26  2023 .rbenv
+drwxr-xr-x@   3 shoaibkhan  staff     96 Oct  6  2024 .skiko
+drwx------@   6 shoaibkhan  staff    192 Nov 16  2024 .ssh
+drwxr-xr-x    5 shoaibkhan  staff    160 Oct 14 23:23 .swiftpm
+-rw-------    1 shoaibkhan  staff   9317 Oct 12 13:06 .viminfo
+drwxr-xr-x@   9 shoaibkhan  staff    288 Aug 17 17:22 .vscode
+drwx------@   2 shoaibkhan  staff     64 Oct  7 18:05 .x-formation
+drwxr-xr-x@   4 shoaibkhan  staff    128 May  4  2024 .yarn
+-rw-r--r--@   1 shoaibkhan  staff    168 Oct 12 23:31 .yarnrc
+-rw-r--r--@   1 shoaibkhan  staff     43 Oct 13 21:05 .zprofile
+-rw-r--r--@   1 shoaibkhan  staff     43 Nov 20  2023 .zprofile.bak
+-rw-------    1 shoaibkhan  staff     43 Oct 12 13:12 .zprofile.save
+-rw-------    1 shoaibkhan  staff  21560 Oct 14 23:35 .zsh_history
+drwx------   44 shoaibkhan  staff   1408 Oct 14 23:35 .zsh_sessions
+-rw-r--r--@   1 shoaibkhan  staff    471 Oct 14 23:33 .zshrc
+-rw-------    1 shoaibkhan  staff    243 Oct  6  2024 .zshrc.save
+drwx------@   3 shoaibkhan  staff     96 Oct 14  2024 Applications
+drwxr-xr-x   65 shoaibkhan  staff   2080 Nov 18  2024 Cypher-Box
+drwx------@  26 shoaibkhan  staff    832 Oct 14 22:56 Desktop
+drwx------+   5 shoaibkhan  staff    160 Oct  7 18:15 Documents
+drwx------+ 134 shoaibkhan  staff   4288 Oct 14 23:23 Downloads
+drwx------@ 105 shoaibkhan  staff   3360 Aug 15 20:09 Library
+drwx------    8 shoaibkhan  staff    256 Dec 15  2024 Movies
+drwx------+   4 shoaibkhan  staff    128 Nov 26  2023 Music
+drwx------+   6 shoaibkhan  staff    192 Oct 11  2024 Pictures
+drwxr-xr-x@   3 shoaibkhan  staff     96 Jan 10  2024 Postman
+drwxr-xr-x+   4 shoaibkhan  staff    128 Nov 12  2023 Public
+drwxr-xr-x   10 shoaibkhan  staff    320 Oct 13 21:53 dotfiles
+-rw-r--r--@   1 shoaibkhan  staff     89 Dec  6  2024 package-lock.json
+shoaibkhan@Shoaibs-MacBook-Air ~ % whoami
+shoaibkhan
+shoaibkhan@Shoaibs-MacBook-Air ~ % cat .profile
+cat: .profile: No such file or directory
+shoaibkhan@Shoaibs-MacBook-Air ~ % cat .zshrc
+
+
+eval "$(rbenv init - zsh)"
+
+export ANDROID_HOME=$HOME/Library/Android/sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+export JAVA_HOME=$(/usr/libexec/java_home -v 11)
+export PATH=$JAVA_HOME/bin:$PATH
+
+
+ulimit -n 524288
+export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin:$PATH"
+export PATH="/opt/homebrew/bin/node:$PATH"
+export JAVA_HOME=$(/usr/libexec/java_home -v 17)
+shoaibkhan@Shoaibs-MacBook-Air ~ % echo $PATH
+/opt/homebrew/bin/node:/opt/homebrew/bin:/opt/homebrew/bin:/opt/homebrew/bin:/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home/bin:/Users/shoaibkhan/.rbenv/shims:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/shoaibkhan/Library/Android/sdk/emulator:/Users/shoaibkhan/Library/Android/sdk/platform-tools
+shoaibkhan@Shoaibs-MacBook-Air ~ %             
