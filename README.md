@@ -14,7 +14,7 @@ Find the command results of this task:
 > echo $PATH            # show PATH variable
 ```
 
-in this file [1. Challenge - Terminal](./1.%20Challenge-%20Terminal.txt)
+in this file [1. Challenge - Terminal](./1.%20Challenge%20-%20Terminal.txt)
 
 
 ### Differences between `.profile` and `.bashrc` (macOS: `.zshrc`)
